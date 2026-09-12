@@ -56,3 +56,4 @@ export function MemoryHero({ photos }: { photos: Photo[] }) {
     </section>
   );
 }
+// setiap ada perubahan biasankan push ke github
